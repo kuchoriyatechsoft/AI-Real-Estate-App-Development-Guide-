@@ -1,6 +1,6 @@
 # How to Build an AI Real Estate App: Complete Development Guide (2026)
 
-![AI Real Estate App Development](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/real-estate-ai-banner.webp)
+![AI Real Estate App Development](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/1775046409018_cff464a6-8fb0-41a5-bd95-a7a8277ab3bb.webp)
 
 ---
 
